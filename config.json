@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "filterpetch",
+        "uuid": 12461995,
+        "checksum": "15wqnb"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
